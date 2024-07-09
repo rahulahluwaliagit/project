@@ -1,4 +1,4 @@
-# COMP3900 Recipe Manager
+# Recipe Manager
 This is a web application that allows users to add and edit recipes. 
 
 ## Running in a VM 
